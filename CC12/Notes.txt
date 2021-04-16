@@ -1,0 +1,10 @@
+Stacks
+	Linear Data Structure
+	Insertion/Deletion at a single end
+	
+	push (data) //insertion of data into stack
+		boolean is_full(stack) //check if stack is full
+	data pop() //returns the last entered data from the stack
+		boolean is_empty(stack) //check if stack is empty
+	
+	peek(stack) //returns the value of the last entered data without removing last data

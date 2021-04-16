@@ -1,0 +1,9 @@
+Prelim exam
+	> Modify the code 
+	1. Values for row, col be user input (Scanner / args[]), marked 1
+	2. Check for user input, row/col between the values 1 to 8
+	3.  Assume the user input (row, col) be the initial position of the knight, 
+		Identify all possible moves for the knight in the given board 
+		Mark all possible moves to 2 
+		
+	4. (optional) Modify/Beautify the print_board()
